@@ -40,23 +40,30 @@
   "contactItems": [
     {
       "id": 0,
-      "title": "Twitter",
-      "url": "https://www.twitter.com/hiddevdploeg",
-      "imageName": "newspaper.circle.fill",
-      "color": 1
+      "title": "DeluxeFX.co.uk",
+      "url": "https://www.deluxefx.co.uk",
+      "imageName": "link.circle.fill",
+      "color": 2
     },
     {
       "id": 1,
-      "title": "Instagram",
-      "url": "https://www.instagram.com/nowplaying.app",
-      "imageName": "camera.circle.fill",
+      "title": "Tiktok.com/@iamtravelr",
+      "url": "https://www.tiktok.com/@iamtravelr",
+      "imageName": "link.circle.fill",
       "color": 2
     },
     {
       "id": 2,
-      "title": "Contact Us",
-      "url": "mailto:hidde@modumhq.com",
-      "imageName": "paperplane.circle.fill",
+      "title": "Instagram.com/iamtravelr",
+      "url": "https://www.instagram.com/iamtravelr",
+      "imageName": "link.circle.fill",
+      "color": 2
+    },
+    {
+      "id": 3,
+      "title": "Email",
+      "url": "mailto:deluxdefx@iamtravelr.com",
+      "imageName": "link.circle.fill",
       "color": 2
     }
   ]
