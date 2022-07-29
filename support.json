@@ -2,28 +2,29 @@
   "faqSections": [
     {
       "id": 0,
-      "title": "Online",
+      "title": "Offline",
       "items": [
         {
           "id": 0,
-          "title": "What is DeluxeFX Professional Membership?",
-          "text": "The information you see about a song is matched against the MusicBrainz database (more to come). But for the most optimal experience, we suggest connecting to Apple Music as we can find even more information about the song in that case."
+          "title": "What is this Support Pages tab?",
+          "text": "This is a special section within our app that we update from the internet. This means we can give you information quickly, without you having to update the app."
         },
         {
           "id": 1,
-          "title": "Where can I get more info about the Tours?",
-          "text": "NowPlaying relies entirely on the beautiful technology of ShazamKit. It would take a big team a lot of time to develop a technology that comes remotely close to what Shazam does. The power of NowPlaying comes with holding the match against an extensive database of music knowledge from Apple Music and/or MusicBrainz."
+          "title": "What is DeluxeFX Professional Membership?",
+          "text": "It is an annual subscription that unlocks all the video editing filters and tools."
         },
         {
           "id": 2,
-          "title": "How can I book the Tours?",
-          "text": "A song often gets released on many different records over time. For example, a song could be released on an EP first and later be featured on the latest album. We, unfortunately, can't distinguish the difference there (yet)."
+          "title": "Where can I get more info about DeluxeFX Tours?",
+          "text": "We will publish more info on this Support Pages tab soon."
         },
         {
-        "id": 3,
-        "title": "Do I need to purchase a subscription?",
-        "text": "If you've been using NowPlaying before version 1.5 and you either purchased Gold then or purchased NowPlaying in the early days, we will not charge you again and you can keep using NowPlaying as is. If you're new to NowPlaying you need to subscribe or do a one-time purchase if you like to keep using all features."
-                }
+          "id": 3,
+          "title": "How can I book the Tours?",
+          "text": "We will provide online booking links here."
+        },
+
       ]
     }
   ],
@@ -32,29 +33,29 @@
       "id": 0,
       "title": "DeluxeFX.co.uk",
       "url": "https://www.deluxefx.co.uk",
-      "imageName": "link.circle.fill",
-      "color": 2
+      "imageName": "arrow.up.right.square.fill",
+      "color": 0
     },
     {
       "id": 1,
       "title": "Tiktok.com/@iamtravelr",
       "url": "https://www.tiktok.com/@iamtravelr",
-      "imageName": "link.circle.fill",
-      "color": 2
+      "imageName": "arrow.up.right.square.fill",
+      "color": 0
     },
     {
       "id": 2,
       "title": "Instagram.com/iamtravelr",
       "url": "https://www.instagram.com/iamtravelr",
-      "imageName": "link.circle.fill",
-      "color": 2
+      "imageName": "arrow.up.right.square.fill",
+      "color": 0
     },
     {
       "id": 3,
       "title": "Email",
       "url": "mailto:deluxefx@iamtravelr.com",
-      "imageName": "link.circle.fill",
-      "color": 2
+      "imageName": "arrow.up.right.square.fill",
+      "color": 0
     }
   ]
 }
