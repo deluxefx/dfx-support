@@ -2,7 +2,7 @@
   "faqSections": [
     {
       "id": 0,
-      "title": "ONLINE",
+      "title": "OFFLINE",
       "items": [
         {
           "id": 0,
@@ -54,6 +54,20 @@
       "title": "Email",
       "url": "mailto:deluxefx@iamtravelr.com",
       "imageName": "paperplane.circle.fill",
+      "color": 0
+    },
+    {
+      "id": 4,
+      "title": "Terms of Service",
+      "url": "https://www.deluxefx.co.uk/terms.html",
+      "imageName": "arrow.up.right.square.fill",
+      "color": 0
+    },
+    {
+      "id": 5,
+      "title": "Privacy Policy",
+      "url": "https://www.deluxefx.co.uk/app-privacy.html",
+      "imageName": "arrow.up.right.square.fill",
       "color": 0
     }
   ]
